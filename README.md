@@ -10,9 +10,4 @@ amount of code we need while also cleaning and optimizing the code we do need.
 We also looked at how we can use the `super` keyword to inherit from and extend
 methods in the parent class.
 
-
-
-
-
-
-you'll encounter inheritance in nearly every program you write for the web
+You'll encounter inheritance in nearly every program you write.
