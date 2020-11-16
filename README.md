@@ -1,4 +1,4 @@
-# Ruby Inheritance Conclusion
+# Object Inheritance Conclusion
 
 Inheritance is a common concept in our everyday lives, and, over the last
 several lessons, we saw how Ruby implements it: by creating a family of classes
